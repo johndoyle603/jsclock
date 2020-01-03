@@ -1,0 +1,33 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+}
+
+#card1 {
+    color: yellow;
+    background-color: blue;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#card2 {
+    color: red;
+    background-color: green;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#card3 {
+    color: green;
+    background-color: red;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#header {
+    padding-bottom: 44px;
+}
