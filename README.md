@@ -1,2 +1,3 @@
 # jsclock
-JavaScript Clock!
+JavaScript weight converter!
+
